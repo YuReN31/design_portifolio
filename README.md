@@ -1,13 +1,14 @@
 # 🎨 Yuren Daniel – Portfólio & Chatbot IA
 
-Portfólio interativo de Design & Desenvolvimento Web com chatbot inteligente integrado (Aurora IA).
+<p>Portfólio interativo de Design & Desenvolvimento Web com chatbot inteligente integrado (Aurora IA).</p>
 
----
+-  Ver site real:[ Aqui](https://yuren-portifolio.page.gd/) 
 
+   
 ## ✨ Funcionalidades
 
 - 🎭 **Portfólio Visual** – Galeria de projetos responsiva com modal de visualização
-- 🤖 **Aurora IA** – Chatbot inteligente com respostas em tempo real
+- 🤖 **Aurora IA** – Chatbot inteligente com respostas sobre o portfólio
 - 📱 **Design Responsivo** – Funciona perfeitamente em todos os dispositivos
 - 📄 **Visualização de CV** – Modal para ver e baixar currículo
 - 🌐 **Menu Social** – Links diretos para redes sociais
